@@ -1,0 +1,21 @@
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\bin\Debug\net6.0-windows\BMI Calc.exe
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\bin\Debug\net6.0-windows\BMI Calc.deps.json
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\bin\Debug\net6.0-windows\BMI Calc.runtimeconfig.json
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\bin\Debug\net6.0-windows\BMI Calc.dll
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\bin\Debug\net6.0-windows\BMI Calc.pdb
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\BMI Calc.csproj.AssemblyReference.cache
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\BMI Calc_MarkupCompile.cache
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\BMI Calc_MarkupCompile.lref
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\BMI Calc.g.resources
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\BMI Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\BMI Calc.AssemblyInfoInputs.cache
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\BMI Calc.AssemblyInfo.cs
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\BMI Calc.csproj.CoreCompileInputs.cache
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\BMI Calc.dll
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\refint\BMI Calc.dll
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\BMI Calc.pdb
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\BMI Calc.genruntimeconfig.cache
+C:\Users\poynter_caleb\source\repos\BMI Calc\BMI Calc\obj\Debug\net6.0-windows\ref\BMI Calc.dll
